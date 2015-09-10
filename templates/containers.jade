@@ -1,0 +1,16 @@
+.content
+  .header
+    h3.name=name
+
+    h3.value=value
+  
+  .resource-area.charge
+    each c in charge
+      .box.charge-box
+        .charge-element(class="#{c}")
+  
+  .resource-area.overcharge
+    each oc in overcharge
+      .box.overcharge-box
+        .charge-element(class="#{oc}")
+  

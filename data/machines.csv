@@ -1,0 +1,49 @@
+name,primary_cost,secondary_cost,conversion_value,explosion_cost
+Test Name,Fire: 2,Gas: 1,1,Oil: 7
+Test Name,Gas: 2,Oil: 1,1,Uranium: 7
+Test Name,Oil: 2,Uranium: 1,1,Coal: 7
+Test Name,Uranium: 2,Coal: 1,1,Trash: 7
+Test Name,Coal: 2,Trash: 1,1,Fire: 7
+Test Name,Trash: 2,Fire: 1,1,Gas: 7
+Test Name,Fire: 2,Coal: 1,1,Gas: 7
+Test Name,Gas: 2,Trash: 1,1,Oil: 7
+Test Name,Oil: 2,Fire: 1,1,Uranium: 7
+Test Name,Uranium: 2,Gas: 1,1,Coal: 7
+Test Name,Coal: 2,Oil: 1,1,Trash: 7
+Test Name,Trash: 2,Uranium: 1,1,Fire: 7
+Test Name,Fire: 2,Uranium: 1,1,Gas: 7
+Test Name,Gas: 2,Coal: 1,1,Oil: 7
+Test Name,Oil: 2,Trash: 1,1,Uranium: 7
+Test Name,Uranium: 2,Fire: 1,1,Coal: 7
+Test Name,Coal: 2,Gas: 1,1,Trash: 7
+Test Name,Trash: 2,Oil: 1,1,Fire: 7
+Test Name,Fire: 3,,1,Uranium: 7
+Test Name,Gas: 3,,1,Coal: 7
+Test Name,Oil: 3,,1,Trash: 7
+Test Name,Uranium: 3,,1,Fire: 7
+Test Name,Coal: 3,,1,Gas: 7
+Test Name,Trash: 3,,1,Oil: 7
+Test Name,Fire: 3,Uranium: 1,2,Coal: 7
+Test Name,Gas: 3,Coal: 1,2,Trash: 7
+Test Name,Oil: 3,Trash: 1,2,Fire: 7
+Test Name,Uranium: 3,Fire: 1,2,Gas: 7
+Test Name,Coal: 3,Gas: 1,2,Oil: 7
+Test Name,Trash: 3,Oil: 1,2,Uranium: 7
+Test Name,Fire: 4,Oil: 2,3,Coal: 7
+Test Name,Gas: 4,Uranium: 2,3,Trash: 7
+Test Name,Oil: 4,Coal: 2,3,Fire: 7
+Test Name,Uranium: 4,Trash: 2,3,Gas: 7
+Test Name,Coal: 4,Fire: 2,3,Oil: 7
+Test Name,Trash: 4,Gas: 2,3,Uranium: 7
+Test Name,Fire: 5,,3,Gas: 7
+Test Name,Gas: 5,,3,Oil: 7
+Test Name,Oil: 5,,3,Uranium: 7
+Test Name,Uranium: 5,,3,Coal: 7
+Test Name,Coal: 5,,3,Trash: 7
+Test Name,Trash: 5,,3,Fire: 7
+Test Name,Fire: 8,,7,Trash: 7
+Test Name,Gas: 8,,7,Fire: 7
+Test Name,Oil: 8,,7,Gas: 7
+Test Name,Uranium: 8,,7,Oil: 7
+Test Name,Coal: 8,,7,Uranium: 7
+Test Name,Trash: 8,,7,Coal: 7

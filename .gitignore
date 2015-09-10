@@ -1,0 +1,4 @@
+*.pdf
+.ludo
+
+node_modules

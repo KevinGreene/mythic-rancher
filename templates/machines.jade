@@ -1,0 +1,17 @@
+div(class="content")
+  div(class="name")
+    h1= name
+  
+  div(class="conversion")
+    div(class="cost")
+      =primary_cost
+      br
+      =secondary_cost
+    div(class="value")
+      |=>
+      =conversion_value
+  br
+  
+  div(class "explosion")
+    img(class="explosion-image" src="assets/bomb.svg")
+    =explosion_cost
