@@ -8,9 +8,10 @@
     each c in charge
       .box.charge-box
         .charge-element(class="#{c}")
-  
+
   .resource-area.overcharge
-    each oc in overcharge
-      .box.overcharge-box
-        .charge-element(class="#{oc}")
-  
+    if overcharge
+      each oc in overcharge
+        .box.overcharge-box
+          .charge-element(class="#{oc}")
+
