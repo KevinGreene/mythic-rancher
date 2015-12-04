@@ -18,7 +18,7 @@ Shuffle the creature deck, and place it near the play area.
 
 At the beginning of each round, draw 4 cards from the deck for each player. Arrange them in a way such that everyone can see.
 
-Starting with the Master Rancher, players take turns selecting a face up creature to care for this round. After everyone has selected one creature, starting with the last player they draft in counter-clockwise order. Then clockwise again, then counterclockwise.
+Starting with the Master Rancher, players take turns selecting a face up creature to care for this round. After everyone has selected one creature, starting with the last player they draft in counter-clockwise order. Then clockwise again, so each player has selected three creatures. Discard all other creatures.
 
 ## Turns
 
@@ -38,17 +38,12 @@ After all players have failed or backed out, repeat Round Setup
 When a player scores, add all points from creatures that are fully fed, and subtract 1 for each animal that was undernourished, 3 for each animal that was overfed, 5 for any animal that was not fed at all.
 
 
-## Results
+## Possible suggestions
 
-In general, it moved too slowly early on.
+Small buffer (1 or 2, not 5)
 
-End rules that worked well:
-4 dice per player
-Take 2
-No buffer
-
-New rules to try:
-Small buffer
 Vegan / Meat eating heroes
+
 Animal card effects
+
 More dice
