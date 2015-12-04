@@ -7,8 +7,11 @@
         "ignoreEmpty": true  
     },
     "components": {
-        "containers": {
-            "output": "containers.pdf"
+        "characters": {
+            "output": "characters.pdf"
+        },
+        "creatures": {
+            "output": "creatures.pdf"
         }
     }
 }

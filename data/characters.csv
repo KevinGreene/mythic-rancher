@@ -1,0 +1,10 @@
+name,size,ability_name,ability_description
+Johann,5,Musical Chairs,Once per round you may shift everyone's selected dice clockwise or counterclockwise
+Kat,6,Land On Your Feet,When you take the last die you may optionally turn that upside down.
+Biggby,5,Iron Stomach,Each square on your board can take 2 cubes instead of 1
+Diana,4,Waste Not Want Not,When a creature you have is overfed you may move up to 3 cubes from it to other creatures prior to flipping it over
+Trixie,5,Tricksy,Before any dice are drafted you may choose to have every die flipped
+Marco,5,Well Actually,When taking a die you may reroll that die. You must use the second result.
+Squalck,1,You Gotta Try This,At the end of a turn you may put the cube from your stomach on any valid square.
+Cleo,5,Whip Into Shape,Once per round you may remove all cubes from one of your creatures
+Kris,5,Merry Christmas,If all cubes on your character are red and green at the end of a round then you gain 3 extra points
